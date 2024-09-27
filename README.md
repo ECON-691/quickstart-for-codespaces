@@ -12,4 +12,5 @@ This assignment is a modification of [Quickstart for GitHub Codespaces](https://
 3. Do not follow the instructions in the "Creating your codespace" section. Instead, you will do the following:  
     a. Leaving both this README and the Quickstart doc open in their tabs, open your assignment repo in a third tab.  
     b. Click the green "Code" button and open the Codespace that is already assigned to you by GitHub classroom.
-4.  Then, continue to follow the instructions in the Quickstart document for the remaining sections. Since this isn't a test of your creativity, in the "Edit the application" section, for the instruction "Edit the text field of the first haiku to personalize the application with your own haiku," I would like you to simply **change the city** in the first poem. 
+4.  Then, continue to follow the instructions in the Quickstart document for the remaining sections. Since this isn't a test of your creativity, in the "Edit the application" section, for the instruction "Edit the text field of the first haiku to personalize the application with your own haiku," I would like you to simply **change the city** in the first poem.
+5.  In the "Committing and pushing your changes" section, after you "commit" the next option will be to "Synch your changes." (You will not see a "publish new branch" option when you are using your assignment repo.)
