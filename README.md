@@ -10,7 +10,7 @@ This assignment is a modification of [Quickstart for GitHub Codespaces](https://
 
 1. In the upper right-hand corner, click the green "Use this template"button and then select "Create new repository."
 2. Make sure that the "Include all branches" slider is set to ON.
-   ![Screenshot of "Create new repository" page demonstrating the "Include all branches" slider as set to ON.]([image-path-or-URL "Optional title"](https://github.com/ECON-691/quickstart-for-codespaces/blob/main/public/images/screenshot-newrepo.png))
+   ![Screenshot of "Create new repository" page demonstrating the "Include all branches" slider as set to ON.](https://github.com/ECON-691/quickstart-for-codespaces/blob/main/public/images/screenshot-newrepo.png)
    Give your repository a name (quickstart-for-codespaces works) and a short description ("Clone of ECON-691/quickstart-for-codespaces for Tech Tacos" is an easy example). Leave visibility as "Public," and then click the green "Create repository" button at the bottom of the page. 
 4. Please open [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) in a separate tab from this README set of instructions.
 5. Read the "Introduction" section.
