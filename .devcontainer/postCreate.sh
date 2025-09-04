@@ -9,6 +9,7 @@ npm install
 # Install steam locomotive for fun
 sudo apt-get update
 sudo apt-get install sl
+sudo apt-get install git-lfs && git lfs install
 echo "export PATH=\$PATH:/usr/games" >> ~/.bashrc
 echo "export PATH=\$PATH:/usr/games" >> ~/.zshrc
 
