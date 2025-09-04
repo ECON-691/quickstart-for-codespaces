@@ -19,6 +19,6 @@ This assignment is a modification of [Quickstart for GitHub Codespaces](https://
 4. Please open [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) in a separate tab from this README set of instructions.
 5. Read just the "Introduction" section; then come back to this instructions page. 
 6. Click the green "<> Code" button and then click "Create codespace on main." Wait for the Codespace to load and get set up! **You should now have 3 tabs open: A) these repo instructions, B) the GitHub document on getting started with codespaces, and C) the codespace itself.**
-7. In Tab B (the GitHub document tutorial), scroll down to "Running the application." Follow the instructions to run the `npm run dev' command and open the port in a new browser tab. **You should now have a 4th tap open: D) a webpage with haikus and pics of Octocat!**
+7. In Tab B (the GitHub document tutorial), scroll down to "Running the application." Follow the instructions to run the `npm run dev` command and open the port in a new browser tab. **You should now have a 4th tap open: D) a webpage with haikus and pics of Octocat!**
 
 ## Additional Resources
