@@ -9,7 +9,7 @@ When you code, you're doing so in one of two ways: interacting directly with a t
 
 A **codespace** is a complete development environment **hosted in the cloud** that's configured specifically for your project. Think of it as a complete computer setup with user interface, the programming languages you need, integrated tools, and even your files that runs in your browser - so you can access it from any device and share it easily with collaborators. 
 
-We'll be using GitHub Codespaces with Visual Studio (VS) Code as our programming interface. A lot of programmers like to use VS or VS Code as their main way of interacting with their coding projects since it handles a lot of different languages and is visually appealing. When you go to use codespaces, GitHub will the dev environment automatically based on your repository's configuration.
+We'll be using GitHub Codespaces with Visual Studio (VS) Code as our programming interface. A lot of programmers like to use VS or VS Code as their main way of interacting with their coding projects since it handles a lot of different languages and is visually appealing. When you go to use codespaces, GitHub will create the dev environment automatically based on your repository's configuration.
 
 #### Why use Codespaces?
 - 🚀 **Instant setup**: No "it works on my machine" problems
@@ -29,7 +29,7 @@ This tutorial is a modification of [Quickstart for GitHub Codespaces](https://do
    Give your repository a name (quickstart-for-codespaces works) and a short description ("Clone of ECON-691/quickstart-for-codespaces for Tech Tacos" is an easy example). Leave visibility as "Public," and then click the green "Create repository" button at the bottom of the page. 
 4. Please open [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) in a separate tab from this README set of instructions.
 5. Read just the "Introduction" section; then come back to this instructions page. 
-6. Click the green "<> Code" button and then click "Create codespace on main." Wait for the Codespace to load and get set up! **You should now have 3 tabs open: A) these repo instructions, B) the GitHub document on getting started with codespaces, and C) the codespace itself.**
+6. Click the green "<> Code" button and then click "Create codespace on main." Wait for the Codespace to load, which might take a few minutes! **You should now have 3 tabs open: A) these repo instructions, B) the GitHub document on getting started with codespaces, and C) the codespace itself.**
 7. In Tab B (the GitHub document tutorial), scroll down to "Running the application." Follow the instructions to run the `npm run dev` command in the codespace (Tab C) and open the port in a new browser tab. **You should now have a 4th tap open: D) a webpage with haikus and pics of Octocat!**
 8. Back in Tab B (GitHub tutorial), continue with "Edit the application" section. For the instruction "Edit the text field of the first haiku to personalize the application," simply **change the city** in the first poem from "seattle" to your favorite city.
 9. Follow the "Committing and pushing your changes" section in Tab B. After you commit, you'll see a "Sync changes" option (not "publish new branch" since you're using an existing repo).
