@@ -11,7 +11,7 @@ A **codespace** is a complete development environment **hosted in the cloud** th
 
 We'll be using GitHub Codespaces with Visual Studio (VS) Code as our programming interface. A lot of programmers like to use VS or VS Code as their main way of interacting with their coding projects since it handles a lot of different languages and is visually appealing. When you go to use codespaces, GitHub will the dev environment automatically based on your repository's configuration.
 
-##### Why use Codespaces?
+#### Why use Codespaces?
 - 🚀 **Instant setup**: No "it works on my machine" problems
 - 🌐 **Access anywhere**: Code from any device with a browser
 - 🔧 **Pre-configured**: All tools and dependencies ready to go
@@ -20,7 +20,7 @@ We'll be using GitHub Codespaces with Visual Studio (VS) Code as our programming
 Codespaces aren't intended to completely replace programming on your own machine if you're working on a large number of projects or with huge datasets/tech specifications, but they are a very useful addition to your professional toolbox.
 
 ## Haikus for Codespaces
-This assignment is a modification of [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart), which provides a tour of using Codespaces with the [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) repo. This project uses JavaScript (Node.js), HTML templating (EJS), and CSS for styling to create a fun little webpage.
+This tutorial is a modification of [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart), which provides a tour of using codespaces with the [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) repo. This project uses JavaScript (Node.js), HTML templating (EJS), and CSS for styling to create a fun little webpage, but you don't have to actually know any of these programming languages in order to work with this tutorial and learn more about codespaces.
 
 ### Instructions
 1. In the upper right-hand corner, click the green "Use this template" button and then select "Create new repository."
@@ -31,7 +31,7 @@ This assignment is a modification of [Quickstart for GitHub Codespaces](https://
 5. Read just the "Introduction" section; then come back to this instructions page. 
 6. Click the green "<> Code" button and then click "Create codespace on main." Wait for the Codespace to load and get set up! **You should now have 3 tabs open: A) these repo instructions, B) the GitHub document on getting started with codespaces, and C) the codespace itself.**
 7. In Tab B (the GitHub document tutorial), scroll down to "Running the application." Follow the instructions to run the `npm run dev` command in the codespace (Tab C) and open the port in a new browser tab. **You should now have a 4th tap open: D) a webpage with haikus and pics of Octocat!**
-8. 8. Back in Tab B (GitHub tutorial), continue with "Edit the application" section. For the instruction "Edit the text field of the first haiku to personalize the application," simply **change the city** in the first poem from "seattle" to your favorite city.
+8. Back in Tab B (GitHub tutorial), continue with "Edit the application" section. For the instruction "Edit the text field of the first haiku to personalize the application," simply **change the city** in the first poem from "seattle" to your favorite city.
 9. Follow the "Committing and pushing your changes" section in Tab B. After you commit, you'll see a "Sync changes" option (not "publish new branch" since you're using an existing repo).
 
 ## Additional Resources
