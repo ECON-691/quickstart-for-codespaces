@@ -24,14 +24,14 @@ Codespaces aren't intended to completely replace programming on your own machine
 ### 🎨 **Haikus for Codespaces** (Start Here!)
 Get familiar with GitHub Codespaces by creating a fun web application with Node.js, EJS templates, and CSS.
 
-**👉 [Start the Haikus Tutorial](HAIKUS-TUTORIAL.md)**
+**👉 [Start the Haikus Tutorial](TUTORIAL-HAIKUS.md)**
 
 *Time: 30-45 minutes | Technologies: JavaScript, HTML, CSS*
 
 ### 🐍 **Python Data Visualization** 
 Build on your Codespaces knowledge by creating interactive expense tracking charts with Python.
 
-**👉 [Start the Python Tutorial](PYTHON-TUTORIAL.md)**
+**👉 [Start the Python Tutorial](TUTORIAL-PYTHON.md)**
 
 *Time: 45-60 minutes | Technologies: Python, matplotlib, pandas*  
 *Prerequisites: Complete the Haikus tutorial first*
