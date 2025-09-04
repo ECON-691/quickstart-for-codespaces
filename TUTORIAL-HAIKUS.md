@@ -1,4 +1,4 @@
-## Haikus for Codespaces
+# Haikus for Codespaces
 This tutorial is a modification of [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart), which provides a tour of using codespaces with the [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) repo. This project uses JavaScript (Node.js), HTML templating (EJS), and CSS for styling to create a fun little webpage, but you don't have to actually know any of these programming languages in order to work with this tutorial and learn more about codespaces.
 
 ### Instructions
