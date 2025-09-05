@@ -22,8 +22,10 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
     }
    },
    ```
-   This means VS Code should automatically install the "Python" extension when the codespace is launched. Let's verify that! In the left navigation, select the "Extensions" tab (the one that looks like four building blocks where three are stable and one is diagonal ◻) and search for "python." Find entries for "Python" and "Python Debugger." Notice that the Python entry should already be installed, while the Python Debugger entry might not be. Right click on Python Debugger and select "Add to devcontainer.json" option. 
+   This means VS Code should automatically install the "Python" extension when the codespace is launched. Let's verify that! In the left navigation, select the "Extensions" tab (the one that looks like four building blocks where three are stable and one is diagonal ◻) and search for "python." Find entries for "Python" and "Python Debugger." Notice that the Python entry should already be installed, while the Python Debugger entry might not be. Right click on Python Debugger and select "Add to devcontainer.json" option.
+   
    ![Screenshot of Extensions tab with Python and Python Debugger entries, with right click screen open and "Add to .devcontainer.json" higlighted.](public/images/screenshot-extensions.png)
+   
    Did anything change in the previous code snippet? (*Hint*: `"ms-python.debugpy"` should have been added!)
 8. 
 
