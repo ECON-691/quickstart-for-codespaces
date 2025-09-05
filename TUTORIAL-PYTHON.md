@@ -29,7 +29,12 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
    Did anything change in the previous code snippet? (*Hint*: `"ms-python.debugpy"` should have been added!)
 
 #### Working with Python
-7. Open the "Explorer" tab once again and open .devcontainer/postCreate.sh. Notice that it includes `sudo apt-get install sl` (steam locomotive). Type "sl" in the terminal and watch the animation! (Make sure you're not typing "s1" with the number one!)
+7. Open the "Explorer" tab once again and open .devcontainer/postCreate.sh. Notice that it includes `sudo apt-get install sl` which is fun little command for a steam locomotive ASCII drawing. Type "sl" in the terminal and watch the animation! (Make sure you're not typing "s1" with the number one!)
+8. Type `cd python` in the terminal and press enter to navigate to the python folder. Then type `python expense_tracker.py` to run the interactive expense tracker. (You could also use the combined command `cd python && python expense_tracker.py`.)
+$\Longrightarrow$ For this next part, you might want to "Maximize panel size" for the terminal to see everything.
+10. 
+11. Now, let's open the Python code. Open the "python" folder; then open "expense_tracker.py" and browse through it a little. Notice the expense categories, the interactive menu system, and the chart generation functions. You don't need to understand all the code, but get a sense of how it's structured.
+12. 
 
 
 ## Additional Resources
