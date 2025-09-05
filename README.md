@@ -48,6 +48,9 @@ Build on your Codespaces knowledge by working with an interactive expense tracki
     - [Node.js Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
     - [EJS Templating Guide](https://ejs.co/#docs)
 - *More about Python*
+    - [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/index.html)
+    - [Pandas Getting Started Guide](https://pandas.pydata.org/docs/getting_started/index.html)
+    - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## What's Next?
 Ready for more? Check out the `python` branch of this repository to explore data visualization with Python while keeping the same familiar Codespaces workflow!
