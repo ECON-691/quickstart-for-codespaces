@@ -53,4 +53,4 @@ Build on your Codespaces knowledge by working with an interactive expense tracki
     - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## What's Next?
-Ready for more? Check out the `python` branch of this repository to explore data visualization with Python while keeping the same familiar Codespaces workflow!
+Do something else with Python.
