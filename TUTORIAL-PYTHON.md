@@ -13,7 +13,9 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
    ![Screenshot of termina in codepsace with python version check command and output.](public/images/screenshot-terminal.png)
 5. In the left navigation sidebar, open the "Explorer" tab (the one at the top that looks like two pieces of paper 📄). Click on `.devcontainer` which is a folder, and then click on `devcontainer.json`. Take a look at two particular snippets of interest:
     * Notice how the first line calls `"name": "Python 3.10 + Node.js",` as programming languages to be loaded into the codespace. In Step 4, we verified that we're running Python 3.10!
-    * A little further down, you can see the customizations that have been loaded into the environment: ```"customizations": {
+    * A little further down, you can see the customizations that have been loaded into the environment:
+   ```json
+   "customizations": {
     "vscode": {
       "extensions": [
         "ms-python.python"
