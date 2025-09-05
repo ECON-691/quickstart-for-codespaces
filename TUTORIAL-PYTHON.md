@@ -5,7 +5,7 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
 
 ### Instructions
 
-*Getting set up*
+#### Getting Set Up
 1. Navigate to your existing repository from the Haikus tutorial (the one you created last week, if you attended Tech Tacos, or just now).
 2. Switch to the `python` branch. In your repository on GitHub, click the branch dropdown (currently showing "main") and select "python."
 3. Create a new codespace on the python branch. Click the green "<> Code" button and then click "Create codespace on python." Wait for the Codespace to load and get set up -- this will take a few minutes as it installs Python and data visualization libraries!  **You should now have 2 tabs open: A) these instructions and B) the codespace itself.**
@@ -27,7 +27,9 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
    ![Screenshot of Extensions tab with Python and Python Debugger entries, with right click screen open and "Add to .devcontainer.json" higlighted.](public/images/screenshot-extensions.png)
    
    Did anything change in the previous code snippet? (*Hint*: `"ms-python.debugpy"` should have been added!)
-8. 
+
+#### Working with Python
+
 
 
 ## Additional Resources
