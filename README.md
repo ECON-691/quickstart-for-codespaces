@@ -33,11 +33,3 @@ Get familiar with GitHub Codespaces by editing a silly example website with Node
 **👉 [Start the Haikus Codespace Tutorial](TUTORIAL-HAIKUS.md)** (right-click to open in a new tab!)
 
 *Time: 30-45 minutes | Technologies: JavaScript, HTML, CSS*
-
-## Additional Resources
-- [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
-- [Node.js Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- [EJS Templating Guide](https://ejs.co/#docs)
-
-## What's Next?
-Ready for more? Check out the `python` branch of this repository to explore data visualization with Python while keeping the same familiar Codespaces workflow!
