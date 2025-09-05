@@ -19,16 +19,22 @@ We'll be using GitHub Codespaces with Visual Studio (VS) Code as our programming
 
 Codespaces aren't intended to completely replace programming on your own machine if you're working on a large number of projects or with huge datasets/tech specifications, but they are a very useful addition to your professional toolbox.
 
-## Choose Your Learning Path
+## Instructions
+1. In the upper right-hand corner, click the green "Use this template" button and then select "Create new repository."
+2. Make sure that the "Include all branches" slider is set to ON.
+   ![Screenshot of "Create new repository" page demonstrating the "Include all branches" slider as set to ON.](https://github.com/ECON-691/quickstart-for-codespaces/blob/main/public/images/screenshot-newrepo.png)
+   Give your repository a name (quickstart-for-codespaces works) and a short description ("Clone of ECON-691/quickstart-for-codespaces for Tech Tacos" is an easy example). Leave visibility as "Public," and then click the green "Create repository" button at the bottom of the page.
 
-### 🎨 **Haikus for Codespaces** (Start Here!)
+### Choose Your Learning Path
+
+#### 🎨 **Haikus for Codespaces** (Start Here!)
 Get familiar with GitHub Codespaces by editing a silly example website with Node.js, EJS templates, and CSS.
 
 **👉 [Start the Haikus Codespace Tutorial](TUTORIAL-HAIKUS.md)**
 
 *Time: 30-45 minutes | Technologies: JavaScript, HTML, CSS*
 
-### 🐍 **Python Data Visualization** 
+#### 🐍 **Python Data Visualization** 
 Build on your Codespaces knowledge by working with an interactive expense tracking chart with Python.
 
 **👉 [Start the Python Codepsace Tutorial](TUTORIAL-PYTHON.md)**
