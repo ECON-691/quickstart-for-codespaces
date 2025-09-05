@@ -29,7 +29,7 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
    Did anything change in the previous code snippet? (*Hint*: `"ms-python.debugpy"` should have been added!)
 
 #### Working with Python
-
+7. Open the "Explorer" tab once again and open .devcontainer/postCreate.sh. Notice that it includes `sudo apt-get install sl` (steam locomotive). Type "sl" in the terminal and watch the animation! (Make sure you're not typing "s1" with the number one!)
 
 
 ## Additional Resources
