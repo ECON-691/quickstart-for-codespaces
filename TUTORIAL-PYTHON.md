@@ -1,5 +1,5 @@
 # Python for Codespaces
-This tutorial combines a modification of [skills-dev/code-with-codespaces]([https://docs.github.com/en/codespaces/getting-started/quickstart](https://github.com/skills-dev/code-with-codespaces)) with an expense tracker developed by [drklis](https://github.com/drklis) using Claude AI. This project uses Python, including the matplotlib and pandas libraries, along with JavaScript (Express.js), but you don't have to actually know these programming languages in order to work with this tutorial and learn more about codespaces.
+This tutorial combines a modification of [skills-dev/code-with-codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart](https://github.com/skills-dev/code-with-codespaces) with an expense tracker developed by [drklis](https://github.com/drklis) using Claude AI. This project uses Python, including the matplotlib and pandas libraries, along with JavaScript (Express.js), but you don't have to actually know these programming languages in order to work with this tutorial and learn more about codespaces.
 
 *Prerequisites:* You should have already completed the Haikus for Codespaces tutorial and have access to your repository with both `main` and `python` branches.
 
