@@ -53,3 +53,7 @@ Build on your Codespaces knowledge by working with an interactive expense tracki
     - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## What's Next?
+Having fun with the haikus web development? Consider adding new haiku categories or themes, making styling improvements with advanced CSS, or adding a suggestion box for user-submitted haikus (advanced, but might be fun to try!). 
+
+Wanting to learn more python? Try customizing the expense categories in the Python code, experiment with different chart colors, exploring more advanced data visualizations, or saving expense data from different days and making a daily tracker.
+
