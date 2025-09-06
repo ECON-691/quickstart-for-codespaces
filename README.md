@@ -44,13 +44,20 @@ Build on your Codespaces knowledge by working with an interactive expense tracki
 
 ## Additional Resources
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
+- [GitHub Student Developer Pack](https://education.github.com/pack/)
+- [Datacamp - Introduction to GitHub Codespaces](https://www.datacamp.com/tutorial/github-codespaces)
+- [Microsoft Learn - Code with GitHub Codespaces](https://learn.microsoft.com/en-us/training/modules/code-with-github-codespaces/)
+- [Visual Studio Code - GitHub Codespaces](https://code.visualstudio.com/docs/remote/codespaces)
 - *More about Javascript*
+    - [Setting up a Node.js project for GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-nodejs-project-for-codespaces)
     - [Node.js Tutorial](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
     - [EJS Templating Guide](https://ejs.co/#docs)
 - *More about Python*
+    - [Setting up a Python project for GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-python-project-for-codespaces)
     - [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/index.html)
     - [Pandas Getting Started Guide](https://pandas.pydata.org/docs/getting_started/index.html)
     - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    - [Jupyter Notebooks on the web](https://code.visualstudio.com/docs/datascience/notebooks-web)
 
 ## What's Next?
 Having fun with the haikus web development? Consider adding new haiku categories or themes, making styling improvements with advanced CSS, or adding a suggestion box for user-submitted haikus (advanced, but might be fun to try!). 
