@@ -32,13 +32,14 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
 7. Open the "Explorer" tab once again and open .devcontainer/postCreate.sh. Notice that it includes `sudo apt-get install sl` which is fun little command for a steam locomotive ASCII drawing. Type "sl" in the terminal and watch the animation! (Make sure you're not typing "s1" with the number one!)
 8. Type `cd python` in the terminal and press enter to navigate to the python folder. Then type `python expense_tracker.py` to run the interactive expense tracker. (You could also use the combined command `cd python && python expense_tracker.py`.)
 
-$\Longrightarrow$ For this next part, you might want to "Maximize panel size" for the terminal to see everything.
+*$\Longrightarrow$ For this next part, you might want to "Maximize panel size" for the terminal to see everything.*
 
 9. Follow the prompts to add 4-5 sample expenses across different categories. Try realistic amounts like $12.50 for lunch, $3.00 for coffee, etc.
 10. Choose option 2 in the expense tracker menu to check out the "View Summary" and consider whether you want to add more expenses and then see how things change. 
-11. Choose option 3 in the expense tracker menu to generate the data visualizations. The program will generate pie charts and statistics, saving them as PNG files in the 
-12. Now, let's open the Python code. Open the "python" folder; then open "expense_tracker.py" and browse through it a little. Notice the expense categories, the interactive menu system, and the chart generation functions. You don't need to understand all the code, but get a sense of how it's structured.
-13. 
+11. Choose option 3 in the expense tracker menu to generate the data visualizations. The program will generate pie charts and statistics, saving them as PNG files in the `public/charts` folder.
+12. Exit the expense tracker (option 4), then start the web server with the following command: ``cd .. && npm start`` When a display message pops up asking if you want to display port, choose yet. This will open a tab in your browser with the haikus exercise; add "/expenses" to the end of that web adddress to see your charts displayed on a webpage!
+13. Now, let's open the Python code. Open the "python" folder; then open "expense_tracker.py" and browse through it a little. Notice the expense categories, the interactive menu system, and the chart generation functions. You don't need to understand all the code, but get a sense of how it's structured.
+14. 
 
 
 ## Additional Resources
