@@ -38,9 +38,19 @@ This tutorial combines a modification of [skills-dev/code-with-codespaces](https
 10. Choose option 2 in the expense tracker menu to check out the "View Summary" and consider whether you want to add more expenses and then see how things change. 
 11. Choose option 3 in the expense tracker menu to generate the data visualizations. The program will generate pie charts and statistics, saving them as PNG files in the `public/charts` folder.
 12. Exit the expense tracker (option 4), then start the web server with the following command: ``cd .. && npm start`` When a display message pops up asking if you want to display port, choose yet. This will open a tab in your browser with the haikus exercise; add "/expenses" to the end of that web adddress to see your charts displayed on a webpage!
-13. Now, let's open the Python code. Open the "python" folder; then open "expense_tracker.py" and browse through it a little. Notice the expense categories, the interactive menu system, and the chart generation functions. You don't need to understand all the code, but get a sense of how it's structured.
-14. 
+13. Before we get too far ahead, now is a good time to commit our changes so far. You can either use VS Code's interface to stage the changes and commit them, or you can use terminal commands. After you do so, you can sync your changes to push the codespace additions to the python branch.
 
+*Digging deeper (optional)*
+
+15. Now, let's open the Python code. Open the "python" folder; then open "expense_tracker.py" and browse through it a little. Notice the expense categories, the interactive menu system, and the chart generation functions. You don't need to understand all the code, but get a sense of how it's structured.
+16. Want to try changing something small? Find the `categories` dictionary around line 8. Change one of the existing categories to something more relevant to your life (e.g., change "Other" to "Textbooks" or "Coffee").
+17. Run the expense tracker again -- see how your change works!
+18. Notice that the program doesn't save expenses between sessions or track them by specific dates. This is intentional for simplicity -- building persistent data storage would require databases or file management, making this a much more complex project.
+
+#### Finishing up
+19. In the codespace, go to File menu > Close Remote Connection to properly close the codespace environment.
+20. Back in the GitHub repo view, create a pull request to merge the python branch into main, then merge it to bring your Python capabilities into your main branch.
+21. If you want to experiment further with this code, create a new branch from main (like "python-experiments") to avoid affecting your completed tutorial work.
 
 ## Additional Resources
 - [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/index.html)
